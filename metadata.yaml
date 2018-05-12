@@ -1,0 +1,26 @@
+_repo: Short-Sketches-from-Oldest-America_24391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Driggs, John B. (John Beach)
+    birthdate: 1854
+    gutenberg_agent_id: '26452'
+    url: http://www.gutenberg.org/2009/agents/26452
+description: ''
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24391'
+  lccn: 05028003
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Alaska'
+- !lcc 'E011'
+title: Short Sketches from Oldest America
+url: http://www.gutenberg.org/ebooks/24391
